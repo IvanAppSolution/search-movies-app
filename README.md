@@ -15,6 +15,6 @@ Home
 Search  
 <img src="https://github.com/user-attachments/assets/a3e139c4-24c5-4a0a-93c6-9bbe48f63bc8" width="200">   
 
-Profile
+Profile  
 <img src="https://github.com/user-attachments/assets/25865395-3f97-41c5-b3ba-edcc212e9259" width="200">
 
